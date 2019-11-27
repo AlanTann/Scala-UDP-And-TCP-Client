@@ -1,0 +1,20 @@
+[0m[[0minfo[0m] [0mRunning SimpleClient [0m
+[0m[[0mdebug[0m] [0mWaiting for threads to exit or System.exit to be called.[0m
+[0m[[0mdebug[0m] [0mWaiting for thread run-main-1 to terminate.[0m
+[0m[[0mdebug[0m] [0m  Classpath:[0m
+[0m[[0mdebug[0m] [0m	E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Assignment 1\Assigment(Alan Tan Wai Loon_13023437)\sbt\bin\target\scala-2.11\classes[0m
+[0m[[0mdebug[0m] [0m	null\jre\lib\ext\jfxrt.jar[0m
+[0m[[0mdebug[0m] [0m	C:\Users\Alan\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.8.jar[0m
+[0m[[0mdebug[0m] [0m	C:\Users\Alan\.ivy2\cache\org.scalafx\scalafx_2.11\jars\scalafx_2.11-8.0.40-R8.jar[0m
+[0m[[0mdebug[0m] [0m	C:\Users\Alan\.ivy2\cache\org.scala-lang\scala-reflect\jars\scala-reflect-2.11.8.jar[0m
+[0m[[0mdebug[0m] [0m	C:\Users\Alan\.ivy2\cache\org.scalafx\scalafxml-core-sfx8_2.11\jars\scalafxml-core-sfx8_2.11-0.2.2.jar[0m
+[0m[[0mdebug[0m] [0m	C:\Users\Alan\.ivy2\cache\org.scalafx\scalafxml-core-macros-sfx8_2.11\jars\scalafxml-core-macros-sfx8_2.11-0.2.2.jar[0m
+[0m[[0mdebug[0m] [0m	C:\Users\Alan\.ivy2\cache\com.github.nscala-time\nscala-time_2.11\jars\nscala-time_2.11-2.12.0.jar[0m
+[0m[[0mdebug[0m] [0m	C:\Users\Alan\.ivy2\cache\joda-time\joda-time\jars\joda-time-2.9.3.jar[0m
+[0m[[0mdebug[0m] [0m	C:\Users\Alan\.ivy2\cache\org.joda\joda-convert\jars\joda-convert-1.2.jar[0m
+[0m[[0mdebug[0m] [0m	C:\Users\Alan\.ivy2\cache\com.jsuereth\scala-arm_2.11\jars\scala-arm_2.11-1.4.jar[0m
+[0m[[0mdebug[0m] [0m	C:\Users\Alan\.ivy2\cache\org.scala-lang.plugins\scala-continuations-library_2.11\bundles\scala-continuations-library_2.11-1.0.1.jar[0m
+[0m[[0mdebug[0m] [0m	Thread run-main-1 exited.[0m
+[0m[[0mdebug[0m] [0mInterrupting remaining threads (should be all daemons).[0m
+[0m[[0mdebug[0m] [0mSandboxed run complete..[0m
+[0m[[0mdebug[0m] [0mExited with code 0[0m
